@@ -15,7 +15,7 @@ Beautiful "Hello World!" message with gradient background.
 
 ### How it looks
 
-![How it looks](img\step6_Salikov.png)
+![How it looks](https://github.com/xekk829-web/Flutter_Lab1/blob/main/img/step6_Salikov.png)
 
 ### Start
 
