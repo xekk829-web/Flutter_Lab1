@@ -1,17 +1,34 @@
-# first_app_salikov
+# Hello World on Flutter
 
-A new Flutter project.
+Beautiful "Hello World!" message with gradient background.
 
-## Getting Started
+> _- Say my name._
+> **- Askar Salikov from ISP-241.**
+> _- You're goddamn right!_
 
-This project is a starting point for a Flutter application.
+### Used stack
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter 3.47.1
+- Dart 3.13.1
+- Platform: Web (Chrome)
+- IDE: VS Code
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### How it looks
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![How it looks](img\step6_Salikov.png)
+
+### Start
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/xekk829-web/Flutter_Lab1
+```
+
+2. Go to the project folder.
+3. Enter in the console:
+
+```bash
+flutter pub get
+flutter run -d chrome
+```

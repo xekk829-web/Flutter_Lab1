@@ -18,7 +18,14 @@ void main() {
             ),
           ),
           child: Center(
-            child: Text("Hello world!"),
+            child: Text(
+              "Hello world!\rWhere are you?",
+              style: TextStyle(
+                fontSize: 26,
+                color: Colors.white,
+                letterSpacing: 30,
+              ),
+            ),
           ),
         ),
       )),
