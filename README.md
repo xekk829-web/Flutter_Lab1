@@ -32,3 +32,9 @@ git clone https://github.com/xekk829-web/Flutter_Lab1
 flutter pub get
 flutter run -d chrome
 ```
+
+### What we have learned
+1. Creating projects on Flutter
+2. The basis for building a widget tree
+3. Hot Reload and Hot Restart
+4. Creating an application with text output and a gradient background
